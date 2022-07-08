@@ -13,3 +13,5 @@ Cevap:
 - [11,16,21] | [8,12,22]
 - [8,11,12,16,21,22]
 ### Big O gösterimi O(nlogn) dir.
+
+[Patika.dev profilime buraya tıklayarak erişebilirsiniz!](https://app.patika.dev/kadircelebi)
